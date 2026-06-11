@@ -1,0 +1,4 @@
+dimming_stars_weak = {
+	country_energy_produces_mult = -0.05
+	country_food_produces_mult = -0.05
+}

@@ -1,0 +1,11 @@
+on_monthly_pulse_country = {
+	events = {
+		# astrophage.10001
+	}
+}
+
+on_monthly_pulse = {
+	events = {
+		astrophage.1
+	}
+}
